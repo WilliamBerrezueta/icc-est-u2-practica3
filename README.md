@@ -136,7 +136,5 @@ Luz azul | Resultado: true
 # Conclusiones:
 
 - Conclusión 1: Aprendimos a usar pilas para validar signos y comprobar si están correctamente cerrados.
-
 - Conclusión 2: Se puede ordenar un Stack sin usar `sort()`, utilizando una pila auxiliar.
-
 - Conclusión 3: Las colas también pueden usarse para comparar caracteres y verificar si una frase es palíndroma sin necesidad de stack.
