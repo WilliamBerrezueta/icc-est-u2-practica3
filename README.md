@@ -19,3 +19,7 @@ Este ejercicio ordena un Stack de enteros utilizando únicamente otra pila axuli
 el algoritmo esxtrae los elementos, los compara y los coloca en la posicion correcta dentro de la pila axuliar, al final, los deveulve al stack original, quedando ordenados con el menor elemento tope.
 
 ## Explicación del Ejercicio 03.
+
+## Bloque de codigo:
+
+````java
