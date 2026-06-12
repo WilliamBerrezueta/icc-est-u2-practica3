@@ -52,3 +52,4 @@ public class App {
         System.out.println(texto3 + " | Resultado: " + palindromeChecker.isPalindrome(texto3));
     }
 }
+// byWilliam
